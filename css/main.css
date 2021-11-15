@@ -1,4 +1,9 @@
 body {
     background-color: purple;
-
+}
+p{
+    color: darkgreen;
+}
+h2 {
+    font-size: 50px;
 }
